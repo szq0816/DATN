@@ -30,5 +30,5 @@ We encourage researchers to achieve different comparative experiments (papers) w
 
 If you encounter any problems reproducing the code, please do not hesitate to contact us.
 
-E-mail: killlakill2023@gmail.com
+E-mail: 2596160058@qq.com
 
